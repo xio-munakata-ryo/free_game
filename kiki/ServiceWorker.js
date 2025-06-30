@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PhotonTest-1.0";
 const contentToCache = [
     "Build/20250630forGit.loader.js",
-    "Build/20250630forGit.framework.js.unityweb",
-    "Build/20250630forGit.data.unityweb",
-    "Build/20250630forGit.wasm.unityweb",
+    "Build/20250630forGit.framework.js",
+    "Build/20250630forGit.data",
+    "Build/20250630forGit.wasm",
     "TemplateData/style.css"
 
 ];
